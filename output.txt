@@ -1,0 +1,13 @@
+- Connection 1: c1 Occupied
+- c3 (amr) arrived and waiting
+- Connection 2: c2 Occupied
+- Connection 1: c1 login
+- Connection 2: c2 login
+- Connection 1: c1 performs online activity
+- Connection 2: c2 performs online activity
+- Connection 1: c1 Logged out
+- Connection 1: c3 Occupied
+- Connection 1: c3 login
+- Connection 1: c3 performs online activity
+- Connection 2: c2 Logged out
+- Connection 1: c3 Logged out
